@@ -1,0 +1,70 @@
+.profile-pic-resize {
+	height: auto;
+	width: auto;
+	max-height: 30px;
+	max-width: 30px;
+}
+
+.logo-resize {
+	height: auto;
+	width: auto;
+	max-height: 200px;
+	max-width: 200px;
+}
+
+.se-logo-resize {
+	height: auto;
+	width: auto;
+	max-height: 25px;
+	max-width: 100px;
+}
+
+.footer-black {
+	background-color: #2f2f2f;
+}
+
+nav a {
+	color: #a2dcf4;
+	padding: auto;
+	margin-right: 10px;
+}
+
+.nav-padding {
+	padding: 20px;
+}
+
+#btn-color {
+	color: #fff;
+}
+
+#tr-text-color {
+	color: #fff;
+}
+
+ol {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li a {
+	color: #bbb;
+	font-size: 12px;
+}
+
+.table-margin {
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+.bottom-text {
+	color: #bbb;
+}
+
+#sign-in {
+	list-style-type: none;
+}
+
+#sign-up-field-pad {
+	padding: 20px;
+}
